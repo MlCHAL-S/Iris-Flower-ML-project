@@ -1,0 +1,1 @@
+W tym projekcie wykorzystano algorytm SVM do klasyfikacji kwiatów irysowych na podstawie ich cech. Najpierw zaimportowano niezbędne biblioteki, a następnie wczytano zbiór danych Iris z biblioteki scikit-learn. Następnie podzielono zbiór danych na zbiór treningowy i testowy, aby móc ocenić skuteczność modelu.
